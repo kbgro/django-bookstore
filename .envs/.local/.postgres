@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=bookstore_project
+POSTGRES_USER=HFpLVKweViyfuWgbEkMOikRZccjmLWEq
+POSTGRES_PASSWORD=RLyesiwCt4a7EVVuS4kN1NzXe9CL8S5q8RvFOMBfcersHaj9fGAGPUMykCHmNjGr
